@@ -37,8 +37,8 @@ A **personalized recipe management system** built with the **MERN stack** (Mongo
 
 ## 🚀 Live Demo
 
-- 🌐 **Frontend**: [https://your-frontend-url.netlify.app](https://your-frontend-url.netlify.app)
-- 🛠️ **Backend**: [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+- 🌐 **Frontend**: [https://your-frontend-url.vercel.app](https://recipe-management-system-zeta.vercel.app/)
+- 🛠️ **Backend**: [https://your-backend-url.onrender.com](https://recipe-management-system-hkt4.onrender.com)
 
 ---
 
