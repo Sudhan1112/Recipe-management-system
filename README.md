@@ -143,12 +143,11 @@ recipe-management-system/
 ---
 
 ## 🔮 Future Enhancements  
-- 🔐 User authentication & role-based access  
-- 🗃️ Recipe category management  
-- ❤️ Favorite recipes list  
-- 🔗 Shareable recipe links  
-- ⭐ Ratings & 💬 Comments  
-- 🗓️ Weekly meal planner  
-- 🛒 Auto-generated shopping list  
-
+- 🔐 User authentication & role-based access.  
+- 🗃️ Recipe category management.
+- ❤️ Favorite recipes list.
+- 🔗 Shareable recipe links.
+- ⭐ Ratings & 💬 Comments.
+- 🗓️ Weekly meal planner.  
+- 🛒 Auto-generated shopping list.
 ---
