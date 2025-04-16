@@ -1,4 +1,4 @@
-# 🍴 Recipe Management System  
+# 🍴Recipe Management System  
 A personalized recipe management system built with the MERN stack (MongoDB, Express, React, Node.js). This full-stack app lets you add, edit, view, and delete recipes with a sleek, mobile-friendly interface.
 
 **🏠 Home Page**  
