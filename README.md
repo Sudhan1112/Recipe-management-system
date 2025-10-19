@@ -151,3 +151,6 @@ recipe-management-system/
 - 🗓️ Weekly meal planner.  
 - 🛒 Auto-generated shopping list.
 ---
+
+
+coming up with new things...
